@@ -1,7 +1,3 @@
-Here's a detailed README for your project, **"Helmet_and_Number_Plate_Detection_using_YOLO8"**, that you can add to your GitHub repository:
-
----
-
 # Helmet and Number Plate Detection using YOLOv8
 
 ## Project Overview
